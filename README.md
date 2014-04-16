@@ -4,9 +4,9 @@ Adds crypto currency support to the Money gem.
 
 ## Installation
 
-Install stable releases with the following command:
+Install money-altcoin with:
 
-    gem install money
+    gem install money-altcoin
     
 ## Usage
 
